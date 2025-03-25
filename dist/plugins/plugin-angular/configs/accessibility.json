@@ -1,0 +1,17 @@
+{
+  "parser": "@group107-eslint/angular/parser",
+  "plugins": ["@group107-eslint/angular"],
+  "rules": {
+    "@group107-eslint/angular/alt-text": "error",
+    "@group107-eslint/angular/click-events-have-key-events": "error",
+    "@group107-eslint/angular/elements-content": "error",
+    "@group107-eslint/angular/interactive-supports-focus": "error",
+    "@group107-eslint/angular/label-has-associated-control": "error",
+    "@group107-eslint/angular/mouse-events-have-key-events": "error",
+    "@group107-eslint/angular/no-autofocus": "error",
+    "@group107-eslint/angular/no-distracting-elements": "error",
+    "@group107-eslint/angular/role-has-required-aria": "error",
+    "@group107-eslint/angular/table-scope": "error",
+    "@group107-eslint/angular/valid-aria": "error"
+  }
+}
