@@ -1,6 +1,6 @@
 {
   "name": "group107-accessibility-eslint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "accessibility eslint configuration",
   "main": "dist/index.min.js",
   "private": true,
@@ -11,8 +11,7 @@
   },
   "scripts": {
     "start": "node dist/index.min.js",
-    "build": "node build/build.js",
-    "addkey": "node dist/validation/license-key-creation.min.js"
+    "build": "node build/build.js"
   },
   "files": [
     "dist",
